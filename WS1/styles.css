@@ -1,0 +1,23 @@
+header {
+	background:red;
+	color:white;
+	text-align:center;
+}
+
+footer {
+	background:black;
+	color:white;
+}
+
+.puna {
+	font-size: 200%;
+	color:red;
+}
+
+#uusi {
+	color:green;
+}
+ul {
+	list-style-type:square;
+
+}

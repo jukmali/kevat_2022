@@ -1,0 +1,26 @@
+.bordered {
+    border: 1px solid black;
+    height:200px;
+    width:300px;
+    border-radius: 20px;
+    padding:0px;
+    background: yellow;
+}
+.reunat {
+    border: 5px solid black;
+    padding: 10px;
+    margin:50px;
+}
+
+.preuna{
+    padding-top:50px;
+}
+
+.kuva {
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+    border-style: none;
+    
+}
+
